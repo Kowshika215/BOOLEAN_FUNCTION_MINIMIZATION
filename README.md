@@ -14,10 +14,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
-
-**Logic Diagram**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -33,18 +29,19 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+![WhatsApp Image 2024-12-09 at 03 48 22_0f8e3408](https://github.com/user-attachments/assets/81b8fd9c-1a40-49c3-8a66-29f1c906e0f5)
 
-Developed by: RegisterNumber:*/
+
+Developed by: Kowshika.R RegisterNumber:24001226
 
 
 **RTL realization**
+![WhatsApp Image 2024-12-09 at 03 48 23_49c42156](https://github.com/user-attachments/assets/533210c6-4e2f-403d-a379-9e89bd5f5491)
+
 
 **Output:**
-
-**RTL**
-
-**Timing Diagram**
+![WhatsApp Image 2024-12-09 at 03 48 24_c3e7fbd1](https://github.com/user-attachments/assets/60c0b4bf-d2aa-4a67-9ae8-88552345d765)
 
 **Result:**
 
