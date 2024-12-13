@@ -15,6 +15,9 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+Boolean function minimization refers to the process of simplifying a Boolean expression
+to its most efficient form. The goal is to reduce the number of logic gates, variables, and terms needed to represent the function,
+which is important for hardware design and optimization in digital circuits.
 
 **Logic Diagram**
 ![WhatsApp Image 2024-12-09 at 03 48 23_67b3ddb3](https://github.com/user-attachments/assets/0c08e353-7b16-4368-aa61-7f9b6e36cdfc)
